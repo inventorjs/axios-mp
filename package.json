@@ -3,8 +3,10 @@
   "version": "1.6.2",
   "description": "小程序端axios",
   "main": "index.js",
+  "types": "index.d.ts",
   "files": [
-    "./index.js"
+    "./index.js",
+    "./index.d.ts"
   ],
   "publishConfig": {
     "access": "public"
