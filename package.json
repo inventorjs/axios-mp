@@ -1,5 +1,5 @@
 {
-  "name": "axios-mp",
+  "name": "@inventorjs/axios-mp",
   "version": "1.6.2",
   "description": "小程序端axios",
   "main": "index.js",
